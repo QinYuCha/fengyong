@@ -7,4 +7,4 @@
           视频专区  
           联系我们  
           留言反馈  
-          
+新闻资讯 的数据接口：http： //39.106.32.91：3000 / api / getnewslist图片分享的数据接口：http：/ /39.106.32.91:3000/api/api/getimgcategory 商品购买的数据接口：http://39.106.32.91:3000/api/getgoods
